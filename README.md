@@ -34,8 +34,6 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Hello Microverse** is an introductory project for me, a microverse student, to
 familiarize myself with the workflow of Microverse assignments
 
