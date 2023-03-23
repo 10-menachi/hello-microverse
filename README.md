@@ -87,13 +87,15 @@ The link below provides details on browser support <br />
 In order to run this project you need:
 
 A working browser
-ESLint
+LightHouse
+WebHint
+StyleLint
 
 The link below provides details on browser support
 
-### Setting Up Linters
-
 <a href="https://www.w3schools.com/tags/ref_html_browsersupport.asp">Browser Support</a>
+
+### Setting Up Linters
 
 ### Setup
 
