@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="th.webp" alt="logo" width="140"  height="auto" />
+  <img src="assets/logo.webp" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
